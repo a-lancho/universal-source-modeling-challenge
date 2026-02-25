@@ -7,7 +7,7 @@ Score/notation reference: `docs/notation.md` (shared definitions for `x_1^N`, `q
 ## Live Workflow
 
 Instructor:
-1. Run `python -m competition.release_test --test-length 300000 --seed 1234`
+1. Run `python -m competition.release_test --test-length 300000 --seed <SECRET_SEED>`
 2. Share the released `test.npy` (and optionally `sha256.txt` for integrity verification)
 
 Students:
