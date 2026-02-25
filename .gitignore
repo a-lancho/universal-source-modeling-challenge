@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets / live-day artifacts
+data/live_release/
+data/**/live_release/
+
+# OS
+.DS_Store
+
+# Test cache
+.pytest_cache/
