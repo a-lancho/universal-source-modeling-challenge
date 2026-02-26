@@ -1,5 +1,0 @@
-{
-  "train_length": 300000,
-  "test_length": 300000,
-  "alphabet_size": 16
-}
